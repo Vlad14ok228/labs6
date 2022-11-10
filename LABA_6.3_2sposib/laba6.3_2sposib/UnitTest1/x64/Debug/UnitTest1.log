@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+D:\Student_NULP\STUDYING\ALGORITMIZACIA\LABA_6\LABA_6.3_2sposib\laba6.3_2sposib\laba6.3_2sposib\laba6.3_2sposib.cpp(38): warning C4715: 'Min': not all control paths return a value
+     Creating library D:\Student_NULP\STUDYING\ALGORITMIZACIA\LABA_6\LABA_6.3_2sposib\laba6.3_2sposib\x64\Debug\UnitTest1.lib and object D:\Student_NULP\STUDYING\ALGORITMIZACIA\LABA_6\LABA_6.3_2sposib\laba6.3_2sposib\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\Student_NULP\STUDYING\ALGORITMIZACIA\LABA_6\LABA_6.3_2sposib\laba6.3_2sposib\x64\Debug\UnitTest1.dll

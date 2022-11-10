@@ -1,0 +1,5 @@
+﻿  laba6.2_2sposib.cpp
+D:\Student_NULP\STUDYING\ALGORITMIZACIA\LABA_6\LABA_6.2_2sposib\laba6.2_2sposib\laba6.2_2sposib\laba6.2_2sposib.cpp(55,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Student_NULP\STUDYING\ALGORITMIZACIA\LABA_6\LABA_6.2_2sposib\laba6.2_2sposib\laba6.2_2sposib\laba6.2_2sposib.cpp(17): warning C4715: 'rand': not all control paths return a value
+D:\Student_NULP\STUDYING\ALGORITMIZACIA\LABA_6\LABA_6.2_2sposib\laba6.2_2sposib\laba6.2_2sposib\laba6.2_2sposib.cpp(33): warning C4715: 'arr': not all control paths return a value
+  laba6.2_2sposib.vcxproj -> D:\Student_NULP\STUDYING\ALGORITMIZACIA\LABA_6\LABA_6.2_2sposib\laba6.2_2sposib\x64\Debug\laba6.2_2sposib.exe

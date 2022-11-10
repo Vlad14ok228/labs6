@@ -1,0 +1,30 @@
+﻿  prosto.cpp
+D:\Student_NULP\STUDYING\ALGORITMIZACIA\LABA_6\LABA_6.3_2sposib\laba6.3_2sposib\prosto\prosto.cpp(5,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Student_NULP\STUDYING\ALGORITMIZACIA\LABA_6\LABA_6.3_2sposib\laba6.3_2sposib\prosto\prosto.cpp(5,1): error C2365: 'printf': redefinition; previous definition was 'function'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(950,37): message : see declaration of 'printf'
+D:\Student_NULP\STUDYING\ALGORITMIZACIA\LABA_6\LABA_6.3_2sposib\laba6.3_2sposib\prosto\prosto.cpp(6,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Student_NULP\STUDYING\ALGORITMIZACIA\LABA_6\LABA_6.3_2sposib\laba6.3_2sposib\prosto\prosto.cpp(6,1): error C2365: 'printf': redefinition; previous definition was 'function'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(950,37): message : see declaration of 'printf'
+D:\Student_NULP\STUDYING\ALGORITMIZACIA\LABA_6\LABA_6.3_2sposib\laba6.3_2sposib\prosto\prosto.cpp(7,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Student_NULP\STUDYING\ALGORITMIZACIA\LABA_6\LABA_6.3_2sposib\laba6.3_2sposib\prosto\prosto.cpp(8,1): error C2059: syntax error: 'for'
+D:\Student_NULP\STUDYING\ALGORITMIZACIA\LABA_6\LABA_6.3_2sposib\laba6.3_2sposib\prosto\prosto.cpp(8,1): error C2143: syntax error: missing ')' before ';'
+D:\Student_NULP\STUDYING\ALGORITMIZACIA\LABA_6\LABA_6.3_2sposib\laba6.3_2sposib\prosto\prosto.cpp(8,15): error C2143: syntax error: missing ';' before '<'
+D:\Student_NULP\STUDYING\ALGORITMIZACIA\LABA_6\LABA_6.3_2sposib\laba6.3_2sposib\prosto\prosto.cpp(8,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Student_NULP\STUDYING\ALGORITMIZACIA\LABA_6\LABA_6.3_2sposib\laba6.3_2sposib\prosto\prosto.cpp(8,15): error C2059: syntax error: '<'
+D:\Student_NULP\STUDYING\ALGORITMIZACIA\LABA_6\LABA_6.3_2sposib\laba6.3_2sposib\prosto\prosto.cpp(8,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Student_NULP\STUDYING\ALGORITMIZACIA\LABA_6\LABA_6.3_2sposib\laba6.3_2sposib\prosto\prosto.cpp(8,20): error C2086: 'int i': redefinition
+D:\Student_NULP\STUDYING\ALGORITMIZACIA\LABA_6\LABA_6.3_2sposib\laba6.3_2sposib\prosto\prosto.cpp(8,13): message : see declaration of 'i'
+D:\Student_NULP\STUDYING\ALGORITMIZACIA\LABA_6\LABA_6.3_2sposib\laba6.3_2sposib\prosto\prosto.cpp(8,29): error C2059: syntax error: ')'
+D:\Student_NULP\STUDYING\ALGORITMIZACIA\LABA_6\LABA_6.3_2sposib\laba6.3_2sposib\prosto\prosto.cpp(9,5): error C2059: syntax error: 'for'
+D:\Student_NULP\STUDYING\ALGORITMIZACIA\LABA_6\LABA_6.3_2sposib\laba6.3_2sposib\prosto\prosto.cpp(9,5): error C2143: syntax error: missing ')' before ';'
+D:\Student_NULP\STUDYING\ALGORITMIZACIA\LABA_6\LABA_6.3_2sposib\laba6.3_2sposib\prosto\prosto.cpp(9,19): error C2143: syntax error: missing ';' before '<'
+D:\Student_NULP\STUDYING\ALGORITMIZACIA\LABA_6\LABA_6.3_2sposib\laba6.3_2sposib\prosto\prosto.cpp(9,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Student_NULP\STUDYING\ALGORITMIZACIA\LABA_6\LABA_6.3_2sposib\laba6.3_2sposib\prosto\prosto.cpp(9,19): error C2059: syntax error: '<'
+D:\Student_NULP\STUDYING\ALGORITMIZACIA\LABA_6\LABA_6.3_2sposib\laba6.3_2sposib\prosto\prosto.cpp(9,28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Student_NULP\STUDYING\ALGORITMIZACIA\LABA_6\LABA_6.3_2sposib\laba6.3_2sposib\prosto\prosto.cpp(9,24): error C2086: 'int j': redefinition
+D:\Student_NULP\STUDYING\ALGORITMIZACIA\LABA_6\LABA_6.3_2sposib\laba6.3_2sposib\prosto\prosto.cpp(9,17): message : see declaration of 'j'
+D:\Student_NULP\STUDYING\ALGORITMIZACIA\LABA_6\LABA_6.3_2sposib\laba6.3_2sposib\prosto\prosto.cpp(9,33): error C2059: syntax error: ')'
+D:\Student_NULP\STUDYING\ALGORITMIZACIA\LABA_6\LABA_6.3_2sposib\laba6.3_2sposib\prosto\prosto.cpp(10,9): error C2059: syntax error: 'if'
+D:\Student_NULP\STUDYING\ALGORITMIZACIA\LABA_6\LABA_6.3_2sposib\laba6.3_2sposib\prosto\prosto.cpp(12,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Student_NULP\STUDYING\ALGORITMIZACIA\LABA_6\LABA_6.3_2sposib\laba6.3_2sposib\prosto\prosto.cpp(12,1): error C2365: 'printf': redefinition; previous definition was 'function'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(950,37): message : see declaration of 'printf'
